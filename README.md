@@ -16,7 +16,7 @@ This project implements a low-cost radar system using an **Arduino Uno**, **Ultr
 
 ## 📷 System Architecture
 
-![System Architecture](Images/architecture_diagram.png)
+![System Architecture](System Architecture diagrams/Picture1.jpg)
 
 ---
 
@@ -76,8 +76,8 @@ This project implements a low-cost radar system using an **Arduino Uno**, **Ultr
 ---
 
 ## 💻 Serial Output Format
-Angle: 45°, Distance: 32 cm
-Angle: 50°, Distance: 28 cm
+- Angle: 45°, Distance: 32 cm
+- Angle: 50°, Distance: 28 cm
 ...
 
 ## 🧠 Future Enhancements
