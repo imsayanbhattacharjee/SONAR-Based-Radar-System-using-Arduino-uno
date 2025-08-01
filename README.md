@@ -47,19 +47,19 @@ SONAR-Based-Radar-System-using-Arduino-uno/
 ├── Circuit diagram.png
 └── README.md
 
+```
 
----
 
 ## ⚙️ How It Works
-
+```
 1. Servo rotates from 0° to 180° and back.
 2. At each angle, the ultrasonic sensor sends a TRIG pulse.
 3. Echo time is used to calculate distance.
 4. Data is sent to the PC via serial.
 5. Processing visualizes the angle and distance as a radar sweep.
 
----
 
+```
 ## 🔧 Setup Instructions
 
 1. **Hardware Connections:**
