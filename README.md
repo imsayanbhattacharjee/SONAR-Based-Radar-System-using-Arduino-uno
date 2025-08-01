@@ -14,9 +14,10 @@ This project implements a low-cost radar system using an **Arduino Uno**, **Ultr
 
 ---
 
-## 📷 System Architecture
+## 🧠 System Architecture
 
-![System Architecture](System Architecture diagrams/Picture1.jpg)
+![System Architecture](System%20Architecture%20diagrams/Picture1.jpg)
+
 
 ---
 
@@ -33,18 +34,17 @@ This project implements a low-cost radar system using an **Arduino Uno**, **Ultr
 ---
 
 ## 📂 Folder Structure
-
-/SONAR-Based-Radar-System-using-Arduino-uno
-│
-├── ArduinoCode/
-│ └── radar_system.ino
-│
-├── ProcessingCode/
-│ └── radar_visualizer.pde
-│
-├── Images/
-│ └── architecture_diagram.png
-│
+```
+SONAR-Based-Radar-System-using-Arduino-uno/
+├── Codes/
+│ ├── Radar_code_new.ino
+│ └── Radar_processing.pde
+├── System Architecture diagrams/
+│ └── Picture1.jpg
+├── Working prototype/
+│ ├── VID-20250424-WA0003.mp4
+│ └── photo_2025-06-08_12-53-30.jpg
+├── Circuit diagram.png
 └── README.md
 
 
