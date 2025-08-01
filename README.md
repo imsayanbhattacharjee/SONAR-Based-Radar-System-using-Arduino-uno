@@ -6,9 +6,9 @@
 
 /SONAR-Based-Radar-System-using-Arduino-uno
 ├── ArduinoCode/
-│   └── radar_system.ino
+│   |── radar_system.ino
 ├── ProcessingCode/
-│   └── radar_visualizer.pde
+│   |── radar_visualizer.pde
 ├── Images/
-│   └── architecture_diagram.png
+│   |── architecture_diagram.png
 └── README.md
